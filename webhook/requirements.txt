@@ -1,5 +1,5 @@
 click==7.1.2
-cryptography==3.0
+cryptography==3.2
 fastapi==0.59.0
 google-cloud-logging==1.15.0
 google-cloud-ndb==1.4.1
